@@ -6,7 +6,6 @@ class Animal
         Console.WriteLine("Animal speaks");
     }
 }
-
 class Dog : Animal
 {
     public new void Speak()  
